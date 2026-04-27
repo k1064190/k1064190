@@ -19,6 +19,11 @@ Inference / Serving
 Tools
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)  ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)  ![WandB](https://img.shields.io/badge/Weights_&_Biases-FFBE00?style=flat-square&logo=weightsandbiases&logoColor=black)  ![Slurm](https://img.shields.io/badge/Slurm-2E5BBA?style=flat-square)  ![Obsidian](https://img.shields.io/badge/Obsidian-7C3AED?style=flat-square&logo=obsidian&logoColor=white)  ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white)
 
+## 🔥 Recent Activity
+<!--START_SECTION:activity-->
+<!--END_SECTION:activity-->
+<sub>↑ Auto-updated hourly via [github-activity-readme](https://github.com/jamesgeorge007/github-activity-readme).</sub>
+
 ## 📊 GitHub Stats
 
 ![400](https://github-readme-stats.vercel.app/api?username=k1064190&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true) ![266](https://github-readme-stats.vercel.app/api/top-langs/?username=k1064190&layout=compact&theme=tokyonight&hide_border=true&langs_count=8)
