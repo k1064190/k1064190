@@ -21,15 +21,15 @@ Tools
 
 ## 🔥 Recent Activity
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#5594](https://github.com/huggingface/trl/pull/5594) in [huggingface/trl](https://github.com/huggingface/trl)
-2. 🎉 Merged PR [#1](https://github.com/k1064190/yelp-recco-distill/pull/1) in [k1064190/yelp-recco-distill](https://github.com/k1064190/yelp-recco-distill)
-3. 💪 Opened PR [#1](https://github.com/k1064190/yelp-recco-distill/pull/1) in [k1064190/yelp-recco-distill](https://github.com/k1064190/yelp-recco-distill)
-4. 🗣 Commented on [#1](https://github.com/k1064190/gemini-voyager/pull/1#issuecomment-4312334183) in [k1064190/gemini-voyager](https://github.com/k1064190/gemini-voyager)
-5. 💪 Opened PR [#1](https://github.com/k1064190/stock-expectation/pull/1) in [k1064190/stock-expectation](https://github.com/k1064190/stock-expectation)
-6. 💪 Opened PR [#1](https://github.com/k1064190/gemini-voyager/pull/1) in [k1064190/gemini-voyager](https://github.com/k1064190/gemini-voyager)
-7. 💪 Opened PR [#5594](https://github.com/huggingface/trl/pull/5594) in [huggingface/trl](https://github.com/huggingface/trl)
-8. 💪 Opened PR [#2](https://github.com/k1064190/trl/pull/2) in [k1064190/trl](https://github.com/k1064190/trl)
-9. ❌ Closed PR [#1](https://github.com/k1064190/trl/pull/1) in [k1064190/trl](https://github.com/k1064190/trl)
+1. 🎉 Merged PR [#2](https://github.com/k1064190/claude-agent-skill-sync-tool/pull/2) in [k1064190/claude-agent-skill-sync-tool](https://github.com/k1064190/claude-agent-skill-sync-tool)
+2. 💪 Opened PR [#2](https://github.com/k1064190/claude-agent-skill-sync-tool/pull/2) in [k1064190/claude-agent-skill-sync-tool](https://github.com/k1064190/claude-agent-skill-sync-tool)
+3. 🎉 Merged PR [#5594](https://github.com/huggingface/trl/pull/5594) in [huggingface/trl](https://github.com/huggingface/trl)
+4. 🎉 Merged PR [#1](https://github.com/k1064190/yelp-recco-distill/pull/1) in [k1064190/yelp-recco-distill](https://github.com/k1064190/yelp-recco-distill)
+5. 💪 Opened PR [#1](https://github.com/k1064190/yelp-recco-distill/pull/1) in [k1064190/yelp-recco-distill](https://github.com/k1064190/yelp-recco-distill)
+6. 🗣 Commented on [#1](https://github.com/k1064190/gemini-voyager/pull/1#issuecomment-4312334183) in [k1064190/gemini-voyager](https://github.com/k1064190/gemini-voyager)
+7. 💪 Opened PR [#1](https://github.com/k1064190/stock-expectation/pull/1) in [k1064190/stock-expectation](https://github.com/k1064190/stock-expectation)
+8. 💪 Opened PR [#1](https://github.com/k1064190/gemini-voyager/pull/1) in [k1064190/gemini-voyager](https://github.com/k1064190/gemini-voyager)
+9. 💪 Opened PR [#5594](https://github.com/huggingface/trl/pull/5594) in [huggingface/trl](https://github.com/huggingface/trl)
 <!--END_SECTION:activity-->
 <sub>↑ Auto-updated hourly via [github-activity-readme](https://github.com/jamesgeorge007/github-activity-readme).</sub>
 
