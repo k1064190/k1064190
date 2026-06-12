@@ -1,6 +1,6 @@
 
 # Hi, I'm Woohyun Cho 👋
-**AI Researcher · Multimodal Large Language Models**  
+**Ads ML Engineer working at Karrot**  
 M.S. Student @ Yonsei University · Multimodal Lab (Advisor: Prof. Youngjae Yu)
 
 [![](https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:k106419@yonsei.ac.kr) [![](https://img.shields.io/badge/Notion-000000?style=flat-square&logo=notion&logoColor=white)](https://woohyun-cho.notion.site) [![](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/cwhy) [![](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/k1064190) ![](https://komarev.com/ghpvc/?username=k1064190&style=flat-square&color=blueviolet&label=Profile+Views)
