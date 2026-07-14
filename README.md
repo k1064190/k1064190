@@ -21,15 +21,15 @@ Tools
 
 ## 🔥 Recent Activity
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#7](https://github.com/k1064190/claude-agent-skill-sync-tool/pull/7) in [k1064190/claude-agent-skill-sync-tool](https://github.com/k1064190/claude-agent-skill-sync-tool)
-2. 🎉 Merged PR [#6](https://github.com/k1064190/claude-agent-skill-sync-tool/pull/6) in [k1064190/claude-agent-skill-sync-tool](https://github.com/k1064190/claude-agent-skill-sync-tool)
-3. 🗣 Commented on [#6](https://github.com/k1064190/claude-agent-skill-sync-tool/pull/6#issuecomment-4965066364) in [k1064190/claude-agent-skill-sync-tool](https://github.com/k1064190/claude-agent-skill-sync-tool)
-4. 🗣 Commented on [#6](https://github.com/k1064190/claude-agent-skill-sync-tool/pull/6#issuecomment-4965010902) in [k1064190/claude-agent-skill-sync-tool](https://github.com/k1064190/claude-agent-skill-sync-tool)
-5. 🗣 Commented on [#6](https://github.com/k1064190/claude-agent-skill-sync-tool/pull/6#issuecomment-4964949537) in [k1064190/claude-agent-skill-sync-tool](https://github.com/k1064190/claude-agent-skill-sync-tool)
-6. 🗣 Commented on [#6](https://github.com/k1064190/claude-agent-skill-sync-tool/pull/6#issuecomment-4964803238) in [k1064190/claude-agent-skill-sync-tool](https://github.com/k1064190/claude-agent-skill-sync-tool)
-7. 🗣 Commented on [#6](https://github.com/k1064190/claude-agent-skill-sync-tool/pull/6#issuecomment-4964781763) in [k1064190/claude-agent-skill-sync-tool](https://github.com/k1064190/claude-agent-skill-sync-tool)
-8. 💪 Opened PR [#6](https://github.com/k1064190/claude-agent-skill-sync-tool/pull/6) in [k1064190/claude-agent-skill-sync-tool](https://github.com/k1064190/claude-agent-skill-sync-tool)
-9. 🎉 Merged PR [#5](https://github.com/k1064190/claude-agent-skill-sync-tool/pull/5) in [k1064190/claude-agent-skill-sync-tool](https://github.com/k1064190/claude-agent-skill-sync-tool)
+1. 🎉 Merged PR [#4](https://github.com/k1064190/ddia-study-notes/pull/4) in [k1064190/ddia-study-notes](https://github.com/k1064190/ddia-study-notes)
+2. 💪 Opened PR [#4](https://github.com/k1064190/ddia-study-notes/pull/4) in [k1064190/ddia-study-notes](https://github.com/k1064190/ddia-study-notes)
+3. 💪 Opened PR [#5](https://github.com/k1064190/claude-remote-guard/pull/5) in [k1064190/claude-remote-guard](https://github.com/k1064190/claude-remote-guard)
+4. 💪 Opened PR [#7](https://github.com/k1064190/claude-agent-skill-sync-tool/pull/7) in [k1064190/claude-agent-skill-sync-tool](https://github.com/k1064190/claude-agent-skill-sync-tool)
+5. 🎉 Merged PR [#6](https://github.com/k1064190/claude-agent-skill-sync-tool/pull/6) in [k1064190/claude-agent-skill-sync-tool](https://github.com/k1064190/claude-agent-skill-sync-tool)
+6. 🗣 Commented on [#6](https://github.com/k1064190/claude-agent-skill-sync-tool/pull/6#issuecomment-4965066364) in [k1064190/claude-agent-skill-sync-tool](https://github.com/k1064190/claude-agent-skill-sync-tool)
+7. 🗣 Commented on [#6](https://github.com/k1064190/claude-agent-skill-sync-tool/pull/6#issuecomment-4965010902) in [k1064190/claude-agent-skill-sync-tool](https://github.com/k1064190/claude-agent-skill-sync-tool)
+8. 🗣 Commented on [#6](https://github.com/k1064190/claude-agent-skill-sync-tool/pull/6#issuecomment-4964949537) in [k1064190/claude-agent-skill-sync-tool](https://github.com/k1064190/claude-agent-skill-sync-tool)
+9. 🗣 Commented on [#6](https://github.com/k1064190/claude-agent-skill-sync-tool/pull/6#issuecomment-4964803238) in [k1064190/claude-agent-skill-sync-tool](https://github.com/k1064190/claude-agent-skill-sync-tool)
 <!--END_SECTION:activity-->
 <sub>↑ Auto-updated hourly via [github-activity-readme](https://github.com/jamesgeorge007/github-activity-readme).</sub>
 
