@@ -21,8 +21,8 @@ Tools
 
 ## 🔥 Recent Activity
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#13](https://github.com/k1064190/claude-agent-skill-sync-tool/pull/13) in [k1064190/claude-agent-skill-sync-tool](https://github.com/k1064190/claude-agent-skill-sync-tool)
-2. 💪 Opened PR [#13](https://github.com/k1064190/claude-agent-skill-sync-tool/pull/13) in [k1064190/claude-agent-skill-sync-tool](https://github.com/k1064190/claude-agent-skill-sync-tool)
+1. 🎉 Merged PR [#8](https://github.com/k1064190/claude-code-gemini-cli-skills/pull/8) in [k1064190/claude-code-gemini-cli-skills](https://github.com/k1064190/claude-code-gemini-cli-skills)
+2. 💪 Opened PR [#8](https://github.com/k1064190/claude-code-gemini-cli-skills/pull/8) in [k1064190/claude-code-gemini-cli-skills](https://github.com/k1064190/claude-code-gemini-cli-skills)
 3. 🎉 Merged PR [#12](https://github.com/k1064190/claude-agent-skill-sync-tool/pull/12) in [k1064190/claude-agent-skill-sync-tool](https://github.com/k1064190/claude-agent-skill-sync-tool)
 4. 💪 Opened PR [#12](https://github.com/k1064190/claude-agent-skill-sync-tool/pull/12) in [k1064190/claude-agent-skill-sync-tool](https://github.com/k1064190/claude-agent-skill-sync-tool)
 5. 🎉 Merged PR [#11](https://github.com/k1064190/claude-agent-skill-sync-tool/pull/11) in [k1064190/claude-agent-skill-sync-tool](https://github.com/k1064190/claude-agent-skill-sync-tool)
